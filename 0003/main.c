@@ -18,4 +18,5 @@ int main()
         largest = n;
 
     printf("%lld\n", largest);
+    return 0;
 }
