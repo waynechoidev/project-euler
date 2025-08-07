@@ -1,5 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "ms-vscode.cpptools",
-  "github.copilot.editor.enableAutoCompletions": false
-}
