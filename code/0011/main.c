@@ -74,4 +74,6 @@ int main()
     }
 
     printf("%d", max);
+
+    return 0;
 }
