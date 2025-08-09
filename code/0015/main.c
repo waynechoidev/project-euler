@@ -1,9 +1,9 @@
 #include <stdio.h>
 #define SIZE 20
+long long dp[SIZE + 1][SIZE + 1];
 
 int main()
 {
-    long long dp[SIZE + 1][SIZE + 1] = {0};
     for (int i = 0; i <= SIZE; ++i)
         dp[i][0] = dp[0][i] = 1;
 
