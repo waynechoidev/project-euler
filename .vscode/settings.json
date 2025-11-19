@@ -1,5 +1,8 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "ms-vscode.cpptools",
-  "github.copilot.editor.enableAutoCompletions": false
+  "github.copilot.editor.enableAutoCompletions": false,
+  "files.associations": {
+    "ostream": "cpp"
+  }
 }
